@@ -10,7 +10,6 @@ public class Main {
 
         try {
            b.add("Ahmed Elgohary");
-           // System.out.println("Hash from murmur: " + display(hash32("hello world",0)) );
        }
        catch (Exception e){
           e.printStackTrace();
